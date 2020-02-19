@@ -76,7 +76,7 @@ function initializeAnalytics()
 function getTotal($analytics, $metric = null, $startDate = null, $endDate = null) {
   
   // Replace with your view ID, for example XXXX.
-  $VIEW_ID = "171160027";
+  $VIEW_ID = "XXXXXXXXXXXXXXX";
   
   // Create the DateRange object.
   $dateRange = new Google_Service_AnalyticsReporting_DateRange();
